@@ -2,7 +2,7 @@ stars = [
     "sol",
     "Alpha Centauri",
     "Barnard",
-    "Wolf 359"
+    "Wolf 359",
 ]
 
 print(stars[3])
@@ -14,7 +14,7 @@ peaks = {
     "Eurasian": "Everest",
     "North American": "Denali",
     "Pacific": "Mauna Kea",
-    "South American": "Aconcagua"
+    "South American": "Aconcagua",
 }
 
 print(peaks["Pacific"])
